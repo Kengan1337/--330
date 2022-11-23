@@ -6,6 +6,24 @@
 - Результати виконання завдання ;
     1. - Результати виконання завдання *1...N*;
     2. ![alt text](file:///C:/Users/vital/OneDrive/Documents/Lightshot/Screenshot_1.png)
+    2. Створив першу програму
+
+        ```python
+        from datetime import datetime
+        name = "Bohdan"
+        print(f"{name} start programming at {datetime.now()}")  
+        ```
     3. ![alt text](file:///C:/Users/vital/OneDrive/Documents/Lightshot/Screenshot_2.png)
     4. Навчились Навчитись програмувати оформлювати та здавати роботи
+    ### Висновок: 
+
+- :heavy_check_mark: навчились офрмляти роботи
+
+- :heavy_check_mark: так досягнуто, створено звіт роботи
+
+- :heavy_check_mark: навчились  писати програми на Пайтон
+
+- :heavy_check_mark: так, виконали програму з файлу та з ноутбука
+
+- все гуд, так тримати
 
