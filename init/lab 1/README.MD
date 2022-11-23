@@ -9,7 +9,7 @@
         ```python
         from datetime import datetime
         name = "Bohdan"
-        print(f"{Vitaliy} start programming at {datetime.now()}")  
+        print(f"{name} start programming at {datetime.now()}")  
         ```
     4. Навчились Навчитись програмувати оформлювати та здавати роботи
     ### Висновок: 
