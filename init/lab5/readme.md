@@ -3,8 +3,7 @@
 ### Мета роботи: Потестувати прогри
 ### Виконав Студент групи ТК-330 Бала Віталій
 ---
-### Виконання роботи
-- Ракета успішно полетіла
+### Виконання роботи Ракета успішно полетіла
 Виконується лише раз
 testConvertFeet (__main__.TestMyLab.testConvertFeet) ... 
 Запускаємо тест і конфігуримо його
@@ -30,13 +29,15 @@ test_my_obj_attributes (__main__.TestMyLab.test_my_obj_attributes) ...
 ok
 test_object_created (__main__.TestMyLab.test_object_created) ... 
 Запускаємо тест і конфігуримо його
-ok
+ok.
 
 ----------------------------------------------------------------------
 Ran 7 tests in 0.067s
 
 OK
 PS C:\Users\vital\OneDrive\Робочий стіл\ТК-330\--330> 
+
+
     ### Висновок: 
 
 - :heavy_check_mark: Навчився тестувати програми:star:
