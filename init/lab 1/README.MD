@@ -11,7 +11,7 @@
         ```python
         from datetime import datetime
         name = "Bohdan"
-        print(f"{name} start programming at {datetime.now()}")  
+        print(f"{Vitaliy} start programming at {datetime.now()}")  
         ```
     3. ![alt text](file:///C:/Users/vital/OneDrive/Documents/Lightshot/Screenshot_2.png)
     4. Навчились Навчитись програмувати оформлювати та здавати роботи
