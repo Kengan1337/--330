@@ -38,7 +38,7 @@ OK
 PS C:\Users\vital\OneDrive\Робочий стіл\ТК-330\--330> 
 
 
-    ### Висновок: 
+### Висновок: 
 
 - :heavy_check_mark: Навчився тестувати програми:star:
 - :heavy_check_mark: Ура!:star:
