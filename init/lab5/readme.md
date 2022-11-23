@@ -33,5 +33,5 @@ ok.
 
 ### Висновок: 
 
-- :heavy_check_mark: Навчився тестувати програми:star:
-- :heavy_check_mark: Ура!:star:
+- :heavy_check_mark: Навчився тестувати програми
+- :heavy_check_mark: Ура!
