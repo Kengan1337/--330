@@ -30,12 +30,6 @@ test_object_created (__main__.TestMyLab.test_object_created) ...
 Запускаємо тест і конфігуримо його
 ok.
 
-----------------------------------------------------------------------
-Ran 7 tests in 0.067s
-
-OK
-PS C:\Users\vital\OneDrive\Робочий стіл\ТК-330\--330> 
-
 
 ### Висновок: 
 
